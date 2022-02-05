@@ -34,45 +34,432 @@ Students taking the course for graduate credit will work together on a team and 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation/reader responses | 20% |
-| Genealogy fieldwork assignment | 25% |
-| Participant-observation fieldwork assignment | 25% |
-| Final project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation/reader responses
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Genealogy fieldwork assignment
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participant-observation fieldwork assignment
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to course and history of the culture concept | &nbsp; |
-| {{< td-colspan 3 >}}**Part 1: Understanding Culture: Method**{{< /td-colspan >}} |||
-| 2 | Ethnography and the problem of kinship | Reading response due  {{< br >}}Handout genealogy assignment |
-| 3 | How to take and interpret a genealogy | &nbsp; |
-| 4 | Culture and change | View in class: _Joe Leahey's Neighbors_ |
-| 5 | Cross-cultural communication: interviewing technique | Discuss genealogy assignment, including self-critique of interviewing technique |
-| 6 | Cross-cultural communication: translators and culture brokers | Genealogy assignment due |
-| 7 | Participant-observation and ethical dilemmas in fieldwork | Handout and discuss participant-observation assignment |
-| 8 | Interpreting qualitative data | &nbsp; |
-| 9 | The importance of popular knowledge | &nbsp; |
-| 10 | Accessing popular knowledge | &nbsp; |
-| 11 | Case study: agriculture in the wake of the Green Revolution | &nbsp; |
-| 12 | Case study: delivering public health |  {{< br >}}{{< br >}} View in class: "Delivering the Goods," selections from RX For Survival: A Global Health Challenge {{< br >}}{{< br >}} Reading response due: Bring to class a page of reflections on the reading, in which you reach back to our previous discussions of accessing local knowledge; in class, after watching the video, add a paragraph making connections between the what you've watched and what you read for today. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part 2: Taking Culture into Account: Planning**{{< /td-colspan >}} |||
-| 13 | What does it mean to value labor? | Participant-observation assignment due |
-| 14 | Microfinance vs. fair trade | &nbsp; |
-| 15 | [Workshop on Gender, Technology and Development](http://gendertech.weebly.com/schedule.html) | &nbsp; |
-| 16 | What is transferred in technology transfer? | &nbsp; |
-| 17 | Case studies in technology transfer: treatment intervention v. health promotion | Reading response due |
-| 18 | In-class practicum on public health promotion: how to design a (flexible) safe sex campaign, for a variety of potential users? | &nbsp; |
-| 19 | Visit to [D-Lab](http://d-lab.mit.edu/) to learn about possible final project topics | &nbsp; |
-| 20 | What is the appropriateness of appropriate—or appropriated—technology? | Reading response due  {{< br >}}Discuss final projects |
-| 21 | In-class time to plan final projects | &nbsp; |
-| 22 | Interviewing versus surveys: benefits and limitations | In-class practicum: survey design and testing |
-| {{< td-colspan 3 >}}**Part 3: Where do we go from here?**{{< /td-colspan >}} |||
-| 23 | Culture in/of development | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Mobile and digital technologies: new solutions and new challenges {{< br >}}{{< br >}} Guest speaker: Mitali Thakor {{< br >}}{{< br >}}  | &nbsp; |
-| 25 | Participant-observation and ethical dilemmas in fieldwork, redux | &nbsp; |
-| 26 | Discussion / presentation of final projects | &nbsp; |
-| 27 | Presentation of final projects | Final projects due in class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to course and history of the culture concept
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: Understanding Culture: Method**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Ethnography and the problem of kinship
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response due  
+Handout genealogy assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+How to take and interpret a genealogy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Culture and change
+{{< tdclose >}}
+{{< tdopen >}}
+View in class: _Joe Leahey's Neighbors_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Cross-cultural communication: interviewing technique
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss genealogy assignment, including self-critique of interviewing technique
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Cross-cultural communication: translators and culture brokers
+{{< tdclose >}}
+{{< tdopen >}}
+Genealogy assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Participant-observation and ethical dilemmas in fieldwork
+{{< tdclose >}}
+{{< tdopen >}}
+Handout and discuss participant-observation assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Interpreting qualitative data
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The importance of popular knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Accessing popular knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Case study: agriculture in the wake of the Green Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Case study: delivering public health
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+View in class: "Delivering the Goods," selections from RX For Survival: A Global Health Challenge
+
+Reading response due: Bring to class a page of reflections on the reading, in which you reach back to our previous discussions of accessing local knowledge; in class, after watching the video, add a paragraph making connections between the what you've watched and what you read for today.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2: Taking Culture into Account: Planning**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+What does it mean to value labor?
+{{< tdclose >}}
+{{< tdopen >}}
+Participant-observation assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Microfinance vs. fair trade
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+[Workshop on Gender, Technology and Development](http://gendertech.weebly.com/schedule.html)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+What is transferred in technology transfer?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Case studies in technology transfer: treatment intervention v. health promotion
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+In-class practicum on public health promotion: how to design a (flexible) safe sex campaign, for a variety of potential users?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to [D-Lab](http://d-lab.mit.edu/) to learn about possible final project topics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+What is the appropriateness of appropriate—or appropriated—technology?
+{{< tdclose >}}
+{{< tdopen >}}
+Reading response due  
+Discuss final projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+In-class time to plan final projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Interviewing versus surveys: benefits and limitations
+{{< tdclose >}}
+{{< tdopen >}}
+In-class practicum: survey design and testing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 3: Where do we go from here?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Culture in/of development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mobile and digital technologies: new solutions and new challenges
+
+Guest speaker: Mitali Thakor
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Participant-observation and ethical dilemmas in fieldwork, redux
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion / presentation of final projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of final projects
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

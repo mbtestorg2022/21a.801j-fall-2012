@@ -9,10 +9,39 @@ Students will be required to submit two fieldwork projects and a final group pro
 Fieldwork Assignments
 ---------------------
 
-| SES # | ASSIGNMENT SHEET |
-| --- | --- |
-| 6 | [Genealogy (PDF)]({{< baseurl >}}/resources/mit21a_801jf12_geneloass) |
-| 13 | [Participant-Observation (PDF)]({{< baseurl >}}/resources/mit21a_801jf12_obserassi) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT SHEET
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Genealogy (PDF)]({{< baseurl >}}/resources/mit21a_801jf12_geneloass)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+[Participant-Observation (PDF)]({{< baseurl >}}/resources/mit21a_801jf12_obserassi)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Project
 -------------
