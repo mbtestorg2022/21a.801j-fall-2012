@@ -543,9 +543,9 @@ D-Lab: Waste project organizing waste pickers in Nicaragua
 {{< tdopen >}}
 
 
-Samson, Melanie, ed. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Refusing to Be Cast Aside: Waste Pickers Organising Around the World." (PDF - 1.1MB)](https://www.wiego.org/publications/refusing-be-cast-aside-waste-pickers-organising-around-world) _Women in Informal Employment, Globalizing and Organizing_ (2009).
+Samson, Melanie, ed. ["Refusing to Be Cast Aside: Waste Pickers Organising Around the World." (PDF - 1.1MB)](https://www.wiego.org/publications/refusing-be-cast-aside-waste-pickers-organising-around-world) _Women in Informal Employment, Globalizing and Organizing_ (2009).
 
-Brito, Deia de. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["God is My Alarm Clock: A Brazilian Waste Picker's Story." (PDF - 1.3MB)](https://www.wiego.org/publications/god-my-alarm-clock-brazilian-waste-pickers-story-1) _WIEGO Workers' Lives,_ no. 1 (2012).
+Brito, Deia de. ["God is My Alarm Clock: A Brazilian Waste Picker's Story." (PDF - 1.3MB)](https://www.wiego.org/publications/god-my-alarm-clock-brazilian-waste-pickers-story-1) _WIEGO Workers' Lives,_ no. 1 (2012).
 
 
 {{< tdclose >}}
